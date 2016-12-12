@@ -1,2 +1,3 @@
 # sudoku
-A simple sudoku game created in python
+A simple sudoku game created in python.
+:)
